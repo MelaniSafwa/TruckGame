@@ -1,0 +1,2 @@
+# TruckGame
+Tugas Besar GKV
